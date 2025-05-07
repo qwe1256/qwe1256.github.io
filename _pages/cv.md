@@ -7,17 +7,21 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
+
+<div style="margin-bottom: 2em;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div> -->
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Washington University in St. Louis, 2029 (expected)
+* M.S. in Computer Science, Washington University in St. Louis, 2021
+* B.S. in Computer Engineering, University of California, Irvine, 2016
 
-Work experience
+<!-- Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2022: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,35 +34,37 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Python
+  * Pytorch
+  * Transformers
+  * vLLM
+  * Pandas
+* Cytoscape
+* SQL
+  
+
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
