@@ -13,7 +13,7 @@ title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Di Huang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://qwe1256.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qwe1256/qwe1256.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "I design AI agents to serve life, and live as one to stay free."
   location         : "St. Louis, MO"
-  employer         : # "Washington University in St. Louis"
+  employer         : "Washington University in St. Louis"
   uri              : # URL
   email            : "di.huang@wustl.edu" 
 
